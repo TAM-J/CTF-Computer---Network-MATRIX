@@ -98,7 +98,7 @@ Ready to see how deep the rabbit-hole goes?
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR-REPO-URL]
+    git clone https://github.com/TAM-J/CTF-Computer---Network-MATRIX.git
     ```
 2.  **Start at the beginning:**
     👉 `http://matrixctf.unaux.com`
